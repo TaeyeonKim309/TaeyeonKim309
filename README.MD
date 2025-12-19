@@ -10,7 +10,7 @@
 
 <br>
 
-I am a first-year **Ph.D. student** in the Department of Electrical and Computer Engineering at **Vanderbilt University**, advised by **Prof. You Chen**. I am currently a researcher at the **OHPEN Lab**.
+I am a first-year **Ph.D. student** in the Department of Electrical and Computer Engineering at **Vanderbilt University**, advised by **Prof. You Chen**. I am currently a graduate student at the **OHPEN Lab**.
 
 My research goal is to **bridge the gap between engineering and clinical care**. I specialize in applying **Multimodal Representation Learning**, **Graph Neural Networks**, and **LLMs** to solve critical healthcare challenges, particularly in **Alzheimer's Disease and Related Dementias (ADRD)**.
 
