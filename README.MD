@@ -19,12 +19,12 @@ My research goal is to **bridge the gap between engineering and clinical care**.
 ### 🔬 Research Focus
 
 - **Medical AI & Informatics:**
-  - **ADRD Pathway Learning:** Predicting disease progression by integrating **Genomics (R01)** and **EHR Audit Logs** via Temporal Heterogeneous Graphs.
+  - **ADRD Pathway Learning:** Predicting disease progression by integrating **Genomics** and **EHR Audit Logs** via Temporal Heterogeneous Graphs.
   - **Digital Phenotyping:** Extracting semantic signals from clinical workflows using LLMs to define "Care Coordination" biomarkers.
 
 - **Computer Vision & Multimodal Learning (Previous Works):**
-  - **Efficient Edge AI:** Deploying Large Vision-Language Models (CLIP) on wearable devices for Alzheimer's assistance [ICIP 2024].
-  - **Fine-grained Text Detection:** Utilizing specific text prompts for precise object detection.
+  - **Efficient Edge AI:** Deploying Large Vision-Language Models (CLIP) on wearable devices for Alzheimer's assistance.
+  - **Fine-grained Text Detection:** Utilizing specific text prompts for precise text detection.
 
 ---
 
